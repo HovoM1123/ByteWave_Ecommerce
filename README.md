@@ -298,8 +298,7 @@
           </ul>
       </ul>
     </td>
-  </tr>
-</table>
+  </table>
 <!-- <table>
   <tr>
     <td width="700" border="0"><h1>Recommendations</h1>
