@@ -75,7 +75,8 @@
 <h2 align="center">Dataset Structure and ERD (Entity relationship diagram)</h2>
 <body>The database structure as seen below consists of four tables: orders, customers, geo_lookup, and order_status, with a total row count of 10,8127 records.</body>
 <div align="center">
-  <img width="680" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739423466/TechSphere_ERD_CamilingJS">
+  <img width="680" src="https://github.com/user-attachments/assets/7784aef9-8206-47bf-a69b-28f1aa70a220"
+">
 </div>
 <h1 align="center">Insights Deep-Dive</h1>
 <table align="center">
