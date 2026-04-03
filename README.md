@@ -112,7 +112,7 @@
             <li>Each quarter in 2022 experienced a downward trend.</li>
             <li>Q1: Started fairly strong ($704K in Jan) but lower than 2021.</li>
             <li>Q2 - Q3: Dropped further, below $500K per month and continued decline through Q3 with Aug/Sep below $400K.</li>
-            <li>Q4: <strong>Historic low, indicating critical demand issues</strong>. This suggests customer retention, pricing, or product-market fit issues. TechSphere may need to re-strategize through marketing, promotions, or change in pricing. </li>
+            <li>Q4: <strong>Historic low, indicating critical demand issues</strong>. This suggests customer retention, pricing, or product-market fit issues. ByteWave may need to re-strategize through marketing, promotions, or change in pricing. </li>
           </ul>
         </li>
       </ol>
@@ -239,7 +239,7 @@
             <li>Loyalty members have sustained AOV growth beyond the pandemic boom, with sales revenue increasing from $0.4M in 2019 to $2.7M in 2022 and an AOV growth rate of 18% from 2019 to 2022. Loyalty members continued to purchase higher-priced products and place more orders after the pandemic boom, up until August 2022.</li>
             <li>Non-loyalty members have not sustained sales revenue and AOV growth beyond the pandemic boom, with sales revenue decreasing from $3.4M in 2019 to $2.2M in 2022, along with an AOV decline of 8% during the same period.</li>
             <li>In 2022, loyalty members spent almost $31 more on average than non-loyalty members ($245 vs. $214). AOV for loyalty members has steadily increased year over year, climbing 1.1% from 2021, while non-loyalty members' AOV declined by 18.7%.</li>
-            <li>Loyalty members outspend non-loyalty members on returning orders by nearly $60, whereas non-loyalty members have historically spent more on their first TechSphere orders.</li>
+            <li>Loyalty members outspend non-loyalty members on returning orders by nearly $60, whereas non-loyalty members have historically spent more on their first ByteWave orders.</li>
           </ul>
         </td>
       </tr>
@@ -258,7 +258,7 @@
     <td valign="top" width="500">
       <ul>
         <li>Laptops have the lowest retention rate, with the highest return rate year over year being the ThinkPad Laptop, followed by the MacBook Air Laptop.</li>
-        <li>Coincidentally, these two items have the highest AOV and are TechSphere's most expensive products.</li>
+        <li>Coincidentally, these two items have the highest AOV and are ByteWave's most expensive products.</li>
         <li>The least returned product is the Bose SoundSport Headphones, with a return rate of 0%, followed by the Samsung Charging Cable Pack, with an average return rate of 2%.</li>
         <li>However, the Bose SoundSport Headphones are the least frequently purchased product, and the Samsung Charging Cable Pack ranks in the bottom half of purchase orders.</li>
         <li>For 2022, there were no recorded returns for any product.</li>
@@ -274,12 +274,12 @@
   <tr valign="top">
      <td width="900">
       <ul>
-        <li>The North American region contributes the most to sales revenue for each TechSphere product.</li>
+        <li>The North American region contributes the most to sales revenue for each ByteWave product.</li>
           <ul>
             <li>An average of 52% of total sales per product.</li>
             <li>$2.7 million in 2022.</li>
           </ul>
-        <li>In contrast, TechSphere sales have underperformed in the Latin American region.</li>
+        <li>In contrast, ByteWave sales have underperformed in the Latin American region.</li>
           <ul>
             <li>Each product accounts for only an average of 6% of total sales.</li>
             <li>$256 thousand in 2022.</li>
@@ -302,7 +302,7 @@
 <div align="left">
   <div style = "text-allign: left;">
     <h1>Recommendations</h1>
-    <h4>Based on the uncovered insights, here are actionable items that TechSphere can take away from our analysis.</h4>
+    <h4>Based on the uncovered insights, here are actionable items that ByteWave can take away from our analysis.</h4>
       <ul>
         <h3>Sales</h3>
         <li>Remedy sales lows due to seasonal fluctuations in January and February by increasing marketing campaigns during these low-sales periods.</li>
@@ -330,7 +330,7 @@
           <ul><li>Macbook Air Laptops had an average return rate of 14% from 2019 to 2021.</li>
           <li>Thinkpad Laptops also had an average return rate of 14% from 2019 to 2021.</li></ul>
         <h3>Regions</h3>
-        <li>Maximize market share in North America, as this region dominates sales across all TechSphere products.</li>
+        <li>Maximize market share in North America, as this region dominates sales across all ByteWave products.</li>
           <ul><li>52% of product sales were in the North American region.</li></ul>
         <li>Diversify the portfolio in the Latin American region by expanding localized product offerings, sales channels, and market reach to increase sales revenue and purchase orders.</li>
           <ul><li>Only 6% of product sales were in the Latin American region.</li></ul>
