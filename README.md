@@ -9,7 +9,7 @@
       <body>
         <strong>ByteWave</strong> is a U.S.-based online retail company that specializes in consumer electronics and digital accessories for customers around the world. Founded in 2018, the company has expanded quickly in recent years. As it scaled, it began facing stronger competition from similar brands along with changing market conditions and new opportunities created during and after the COVID-19 pandemic. <br>
         <br>
-        <strong>ByteWave's</strong> Retail’s customer base is nearing <strong>88,000</strong> customers and includes more than <strong>108,000</strong> transactions, generating over <strong>$28 million</strong> in total revenue. The e-commerce dataset covers a wide range of business metrics, including sales, products, regional performance, and loyalty program activity.. <br>
+        <strong>ByteWave's</strong> Retail customer base is nearing <strong>88,000</strong> customers and includes more than <strong>108,000</strong> transactions, generating over <strong>$28 million</strong> in total revenue. The e-commerce dataset covers a wide range of business metrics, including sales, products, regional performance, and loyalty program activity.. <br>
         <br>Reporting to the Director of Operations, a detailed analysis was completed to assess <strong>Bytewave’s</strong> business performance from 2019 through 2022. TThis review delivers insights that internal teams can use to improve efficiency and strengthen commercial results. The analysis and recommendations focus on these main areas:
       </body>
       <h3>Northstar Metrics</h3>
