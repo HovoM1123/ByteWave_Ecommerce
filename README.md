@@ -299,16 +299,8 @@
       </ul>
     </td>
   </table>
-<!-- <table>
-  <tr>
-    <td width="700" border="0"><h1>Recommendations</h1>
-    <h4>Based on the uncovered insights, here are actionable items that TechSphere can take away from our analysis.</h4></td>
-    <td width="400" border="0"><div align="right">
-      <img width="192" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739421238/TechShere_Logo_CamilingJS" />
-    </div></td>
-  </tr>
-</table> -->
-<table align="center">
+<div align="left">
+  <div style = "text-allign: left;">
     <h1>Recommendations</h1>
     <h4>Based on the uncovered insights, here are actionable items that TechSphere can take away from our analysis.</h4>
       <ul>
@@ -345,4 +337,5 @@
         <li>Continue to streamline high-performing products.</li>
           <ul><li> The demand for the 27-inch 4K Gaming Monitor and Apple AirPods headphones remains high relative to the region.</li></ul>
       </ul>
-</table>
+    <div>
+<div align="left">
